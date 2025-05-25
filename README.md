@@ -2,6 +2,9 @@
 
 ![Quiz Image](image.png) 
 
+## Description
+
+## Features
 
 ## Getting Started
 
@@ -17,3 +20,5 @@
   python trivia_game.py
 
   ```
+
+## Contributing
