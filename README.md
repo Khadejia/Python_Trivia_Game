@@ -4,20 +4,20 @@
 
 ## Description
 
-Python Trivia Game is a cool, interactive quiz application programmed to put one's knowledge to the test-and to stimulate its growth-on topics such as programming and Web development, among others. Randomly chosen multiple-choice questions and immediate feedback make it a fast and practical way to learn and challenge oneself.
+Python Trivia Game is a cool, interactive quiz application designed to test and expand your knowledge of Python. With randomly selected multiple-choice questions and instant feedback, it offers a fast and engaging way to sharpen your Python skills and challenge yourself.
 
 ## Features
 
-🎲 **Randomized Questions**
-Every time a set of new questions is randomly selected for each new game.
-✅ **Multiple-Choice Format**
-Answer each question by choosing from four options. 
-⚡ **Instant Feedback**
-You immediately receive feedback on whether your answer was correct or not.
-📈 **Live Score Updates**
-Your score is updated as you play, helping you track your progress.
-⏱ **Fast-Paced Fun**
-Each game includes 5 questions for a fast, enjoyable learning experience.
+🎲 **Randomized Questions**  
+Every time a set of new questions is randomly selected for each new game.  
+✅ **Multiple-Choice Format**  
+Answer each question by choosing from four options.   
+⚡ **Instant Feedback**  
+You immediately receive feedback on whether your answer was correct or not.  
+📈 **Live Score Updates**  
+Your score is updated as you play, helping you track your progress.  
+⏱ **Fast-Paced Fun**  
+Each game includes 5 questions for a fast, enjoyable learning experience.  
 
 ## Getting Started
 
